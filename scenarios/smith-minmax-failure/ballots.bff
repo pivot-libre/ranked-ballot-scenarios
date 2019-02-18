@@ -1,0 +1,6 @@
+8 * B>D>A>C
+9 * C>A>B>D
+3 * C>D>A>B
+5 * D>A>B>C
+1 * A>B>C>D
+1 * A>C>D>B
