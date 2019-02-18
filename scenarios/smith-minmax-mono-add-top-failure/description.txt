@@ -1,5 +1,1 @@
 A Smith, Minmax mono-add-top failure example with as few voters as possible.
-
-The Smith set is {A, B, D}.
-C is the Plurality winner and also the Minmax winner.
-Schulze elects A.
