@@ -1,7 +1,3 @@
-The Smith set is {A, B, D}.
-C is the Plurality winner and also the Minmax winner.
-Schulze elects A.
-
 This is a Smith, Minmax failure example because C is automatically
 disqualified in the first election since C is not in the Smith set; but
 adding some A-first ballots gets C into the Smith set, after which it wins.
