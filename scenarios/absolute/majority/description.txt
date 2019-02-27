@@ -1,0 +1,1 @@
+A majority of voters rank A as the winner, so systems satisfying the majority criteria should elect A as the winner.
